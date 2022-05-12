@@ -1,0 +1,14 @@
+﻿{
+	"name": "V2Ray",
+	"description": "Deploy V2ray on Heroku.",
+	"keywords": ["V2Ray"],
+	"env": {
+		"UUID": {
+			"description": "V2Ray UUID",
+			"value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+		}
+	},
+	"website": "https://github.com/Torphy11/Beta/tree/main/Beta",
+	"repository": "https://github.com/Torphy11/Beta/tree/main/Beta",
+	"stack": "container"
+}
