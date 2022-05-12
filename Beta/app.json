@@ -9,10 +9,6 @@
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/"
-        }
-    },
-    "website": "https://github.com/Torphy11/Beta/",
-    "repository": "https://github.com/Torphy11/Beta/",
+            "value": "/"/Torphy11/Beta/",
     "stack": "container"
 }
